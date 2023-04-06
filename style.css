@@ -2,7 +2,8 @@
 p {
   color: blue;
   font-size: 20px;
-  background-image: url(https://unsplash.com/photos/VieM9BdZKFo);
+  background-image: url("https://unsplash.com/photos/VieM9BdZKFo");
+  background-size: auto;
 }
 
 header {
